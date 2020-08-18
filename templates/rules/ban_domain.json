@@ -1,0 +1,9 @@
+{
+    "type": "field",
+    "domain": [
+        "domain:huorong.cn", 
+        "360.com"
+    ],
+    "outboundTag": "blocked" // don't change this tag
+}
+// https://v2ray.com/chapter_02/03_routing.html

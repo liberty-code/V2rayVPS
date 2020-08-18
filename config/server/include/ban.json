@@ -1,0 +1,9 @@
+			{
+				"type": "field",
+				"domain": [
+					"huorong.cn",
+					"360.cn",
+					"360.com.cn"
+				],
+				"outboundTag": "blocked"
+			}
